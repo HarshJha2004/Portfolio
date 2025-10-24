@@ -24,7 +24,7 @@ function Homepage() {
             <img src={heroImg} />
           </div>
           <div id="btnContainer">
-            <a class="btn" id="portfolioBtn" href="#Resumelink">
+            <a class="btn" id="portfolioBtn" href="https://drive.google.com/file/d/15vOuLzzlQmvcl5lAuMbpo0HJBaeeU2DQ/view?usp=sharing" target="_blank">
               Resume
             </a>
             <button onClick={handleClick} class="btn" id="hireBtn">
